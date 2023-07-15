@@ -1,6 +1,6 @@
 ## Howdy, Git Ranger! :cowboy_hat_face:
 
-### Welcome to my heavenly abode! :hut:
+### Welcome to my humble abode! :evergreen_tree: :hut: :evergreen_tree:
 
 ### To get started around here, you can check out my repo series:
 
