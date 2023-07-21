@@ -4,11 +4,15 @@
 
 ### To get started around here, you can check out my repo series:
 
-- [Zig Packages](https://github.com/tensorush?tab=repositories&q=zig-&type=&language=&sort=)
+- [Rust Crates](https://github.com/tensorush?tab=repositories&q=rust-crate&type=&language=&sort=)
 
-- [Awesome Lists](https://github.com/tensorush?tab=repositories&q=awesome-&type=&language=&sort=)
+- [Go Services](https://github.com/tensorush?tab=repositories&q=go-service&type=&language=&sort=)
 
-- [Personal Dumps](https://github.com/tensorush?tab=repositories&q=my-&type=&language=&sort=)
+- [Zig Packages](https://github.com/tensorush?tab=repositories&q=zig-package&type=&language=&sort=)
+
+- [Awesome Lists](https://github.com/tensorush?tab=repositories&q=awesome-list&type=&language=&sort=)
+
+- [Personal Dumps](https://github.com/tensorush?tab=repositories&q=my&type=&language=&sort=)
 
 <details>
 <summary>In case you appreciate my open-source efforts, please consider supporting:</summary>
