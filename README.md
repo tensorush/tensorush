@@ -4,6 +4,8 @@
 
 ### To get started around here, you can check out my repo series:
 
+- #### [FOSS Forks](https://github.com/tensorush?tab=repositories&q=foss-fork&type=&language=&sort=)
+
 - #### [Rust Crates](https://github.com/tensorush?tab=repositories&q=rust-crate&type=&language=&sort=)
 
 - #### [Go Services](https://github.com/tensorush?tab=repositories&q=go-service&type=&language=&sort=)
