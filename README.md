@@ -2,7 +2,7 @@
 
 ### Welcome to my humble abode! :evergreen_tree: :hut: :evergreen_tree:
 
-### To get started around here, you can check out my repo series:
+### To get started around here, check out my repo series:
 
 - #### [FOSS Forks](https://github.com/tensorush?tab=repositories&q=foss-fork&type=&language=&sort=)
 
