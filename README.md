@@ -14,7 +14,9 @@
 
 - #### [Awesome Lists](https://github.com/tensorush?tab=repositories&q=awesome-list&type=&language=&sort=)
 
-- #### [Personal Dumps](https://github.com/tensorush?tab=repositories&q=my&type=&language=&sort=)
+- #### [Personal Dumps](https://github.com/tensorush?tab=repositories&q=personal-dump&type=&language=&sort=)
+
+- #### [Coding Solutions](https://github.com/tensorush?tab=repositories&q=coding-solution&type=&language=&sort=)
 
 <details>
 <summary><h5>In case you appreciate my open-source efforts, please consider supporting:</h5></summary>
