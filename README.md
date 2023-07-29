@@ -37,5 +37,5 @@
 [ff-url]: https://github.com/tensorush?tab=repositories&q=foss-fork&type=&language=&sort=
 [al-shield]: https://img.shields.io/badge/click-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=FC60A8&label=awesome%20lists&labelColor=black
 [al-url]: https://github.com/tensorush?tab=repositories&q=awesome-list&type=&language=&sort=
-[pd-shield]: https://img.shields.io/badge/click-009E60?style=for-the-badge&logo=fireship&logoColor=009E60&label=personal%20dumps&labelColor=black
+[pd-shield]: https://img.shields.io/badge/click-009E60?style=for-the-badge&logo=undertale&logoColor=009E60&label=personal%20dumps&labelColor=black
 [pd-url]: https://github.com/tensorush?tab=repositories&q=personal-dump&type=&language=&sort=
