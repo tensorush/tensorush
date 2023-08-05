@@ -35,7 +35,7 @@
 [zp-shield]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=zig%20packages&labelColor=black
 [zp-url]: https://github.com/tensorush?tab=repositories&q=zig-package&type=&language=&sort=
 [wa-shield]: https://img.shields.io/badge/click-654FF0?style=for-the-badge&logo=webassembly&logoColor=654FF0&label=wasm%20modules&labelColor=black
-[wa-url]: https://github.com/tensorush?tab=repositories&q=webassembly-module&type=&language=&sort=
+[wa-url]: https://github.com/tensorush?tab=repositories&q=wasm-module&type=&language=&sort=
 [ff-shield]: https://img.shields.io/badge/click-F24E29?style=for-the-badge&logo=git&logoColor=F24E29&label=foss%20forks&labelColor=black
 [ff-url]: https://github.com/tensorush?tab=repositories&q=foss-fork&type=&language=&sort=
 [al-shield]: https://img.shields.io/badge/click-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=FC60A8&label=awesome%20lists&labelColor=black
