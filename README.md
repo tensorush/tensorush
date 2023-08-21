@@ -2,9 +2,9 @@
 
 ### Welcome to my humble abode! :evergreen_tree: :hut: :evergreen_tree:
 
-### To get started around here, check out my repo series:
+### Check out my repo series to see what I've been up to:
 
-|               Projects               |              Miscellaneous              |
+|          :star: Core :star:          |   :sparkles: Miscellaneous :sparkles:   |
 |:------------------------------------:|:---------------------------------------:|
 | [![Go Services][gs-shield]][gs-url]  |   [![FOSS Forks][ff-shield]][ff-url]    |
 | [![Rust Crates][rc-shield]][rc-url]  |  [![Awesome Lists][al-shield]][al-url]  |
