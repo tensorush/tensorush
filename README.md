@@ -2,7 +2,7 @@
 
 ### Welcome to my humble abode! :evergreen_tree: :hut: :evergreen_tree:
 
-### Check out my repo series to see what I've been up to:
+### To get started, check out my [star lists](https://github.com/tensorush?tab=stars) and repo series:
 
 |          :star: Core :star:          |   :sparkles: Miscellaneous :sparkles:   |
 |:------------------------------------:|:---------------------------------------:|
