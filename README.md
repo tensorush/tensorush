@@ -4,12 +4,12 @@
 
 <div align="center">
 
-|     :star: Core :star:     | :sparkles: Misc :sparkles: |     :hugs: Hugs :hugs:     |
-|:--------------------------:|:--------------------------:|:--------------------------:|
-| [![GS][gs-shield]][gs-url] | [![FF][ff-shield]][ff-url] | [![KF][kf-shield]][kf-url] |
-| [![ZP][zp-shield]][zp-url] | [![PD][pd-shield]][pd-url] | [![BC][bc-shield]][bc-url] |
-| [![RC][rc-shield]][rc-url] | [![AL][al-shield]][al-url] | [![ET][et-shield]][et-url] |
-| [![WM][wa-shield]][wa-url] | [![CC][cc-shield]][cc-url] | [![LP][lp-shield]][lp-url] |
+|    :star: Stars :star:     | :sparkles: Sparks :sparkles: |     :hugs: Hugs :hugs:     |
+|:--------------------------:|:----------------------------:|:--------------------------:|
+| [![GS][gs-shield]][gs-url] |  [![FF][ff-shield]][ff-url]  | [![KF][kf-shield]][kf-url] |
+| [![ZP][zp-shield]][zp-url] |  [![PD][pd-shield]][pd-url]  | [![BC][bc-shield]][bc-url] |
+| [![RC][rc-shield]][rc-url] |  [![AL][al-shield]][al-url]  | [![ET][et-shield]][et-url] |
+| [![WM][wa-shield]][wa-url] |  [![CC][cc-shield]][cc-url]  | [![LP][lp-shield]][lp-url] |
 
 </div>
 
