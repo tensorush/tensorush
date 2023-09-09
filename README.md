@@ -1,46 +1,43 @@
-## Howdy, Git Ranger! :cowboy_hat_face:
+<h2 style="text-align: center;">🤠 Howdy, Git Ranger! 🤠</h2>
 
-### Welcome to my humble abode! :evergreen_tree: :hut: :evergreen_tree:
+<h3 style="text-align: center;">🌲 Welcome to my humble abode! 🌲</h3>
 
-### To get started here, check out my [star lists](https://github.com/tensorush?tab=stars) and repo series:
+<div align="center">
 
-|          :star: Core :star:          |   :sparkles: Miscellaneous :sparkles:   |
-|:------------------------------------:|:---------------------------------------:|
-| [![Go Services][gs-shield]][gs-url]  |   [![FOSS Forks][ff-shield]][ff-url]    |
-| [![Rust Crates][rc-shield]][rc-url]  |  [![Awesome Lists][al-shield]][al-url]  |
-| [![Zig Packages][zp-shield]][zp-url] | [![Personal Dumps][pd-shield]][pd-url]  |
-| [![Wasm Modules][wa-shield]][wa-url] | [![Code Challenges][cc-shield]][cc-url] |
+|     :star: Core :star:     | :sparkles: Misc :sparkles: | :yellow_heart: Supp :yellow_heart: |
+|:--------------------------:|:--------------------------:|:----------------------------------:|
+| [![GS][gs-shield]][gs-url] | [![FF][ff-shield]][ff-url] |     [![KF][kf-shield]][kf-url]     |
+| [![ZP][zp-shield]][zp-url] | [![PD][pd-shield]][pd-url] |     [![BC][bc-shield]][bc-url]     |
+| [![RC][rc-shield]][rc-url] | [![AL][al-shield]][al-url] |     [![ET][et-shield]][et-url]     |
+| [![WM][wa-shield]][wa-url] | [![CC][cc-shield]][cc-url] |     [![LP][lp-shield]][lp-url]     |
 
-<details>
-<summary><h5>In case you appreciate my open-source efforts, please consider supporting:</h5></summary>
-
-`BTC`
-
-<a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=bc1qxn94usln7779phhy2dxw66uf37cce75z6kepx3" height="333" width="333" border="0" alt="Bitcoin QR code" title="bitcoin:bc1qxn94usln7779phhy2dxw66uf37cce75z6kepx3"></a>
-
-`ETH`
-
-<a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=ethereum&amp;address=0x64b9B720FD8dEDEfCa37B89cCF82c132631B93Da" height="333" width="333" border="0" alt="Ethereum QR code" title="ethereum:0x64b9B720FD8dEDEfCa37B89cCF82c132631B93Da"></a>
-
-##### Thanks a batch for your dogenations! :hugs: :dog:
-
-</details>
+</div>
 
 <!-- MARKDOWN LINKS -->
 
-[gs-shield]: https://img.shields.io/badge/click-2596BE?style=for-the-badge&logo=go&logoColor=2596BE&label=go%20services&labelColor=black
+[gs-shield]: https://img.shields.io/badge/brr-2596BE?style=for-the-badge&logo=go&logoColor=2596BE&label=go%20services&labelColor=black
 [gs-url]: https://github.com/tensorush?tab=repositories&q=go-service&type=&language=&sort=
+[zp-shield]: https://img.shields.io/badge/zap-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=zig%20packages&labelColor=black
+[zp-url]: https://github.com/tensorush?tab=repositories&q=zig-package&type=&language=&sort=
 [rc-shield]: https://img.shields.io/badge/click-7C5642?style=for-the-badge&logo=rust&logoColor=7C5642&label=rust%20crates&labelColor=black
 [rc-url]: https://github.com/tensorush?tab=repositories&q=rust-crate&type=&language=&sort=
-[zp-shield]: https://img.shields.io/badge/click-F6A516?style=for-the-badge&logo=zig&logoColor=F6A516&label=zig%20packages&labelColor=black
-[zp-url]: https://github.com/tensorush?tab=repositories&q=zig-package&type=&language=&sort=
-[wa-shield]: https://img.shields.io/badge/click-654FF0?style=for-the-badge&logo=webassembly&logoColor=654FF0&label=wasm%20modules&labelColor=black
+[wa-shield]: https://img.shields.io/badge/thwip-654FF0?style=for-the-badge&logo=webassembly&logoColor=654FF0&label=wasm%20modules&labelColor=black
 [wa-url]: https://github.com/tensorush?tab=repositories&q=wasm-module&type=&language=&sort=
-[ff-shield]: https://img.shields.io/badge/click-F24E29?style=for-the-badge&logo=git&logoColor=F24E29&label=foss%20forks&labelColor=black
+
+[ff-shield]: https://img.shields.io/badge/snikt-F24E29?style=for-the-badge&logo=git&logoColor=F24E29&label=foss%20forks&labelColor=black
 [ff-url]: https://github.com/tensorush?tab=repositories&q=foss-fork&type=&language=&sort=
-[al-shield]: https://img.shields.io/badge/click-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=FC60A8&label=awesome%20lists&labelColor=black
-[al-url]: https://github.com/tensorush?tab=repositories&q=awesome-list&type=&language=&sort=
-[pd-shield]: https://img.shields.io/badge/click-009E60?style=for-the-badge&logo=undertale&logoColor=009E60&label=personal%20dumps&labelColor=black
+[pd-shield]: https://img.shields.io/badge/pum-009E60?style=for-the-badge&logo=undertale&logoColor=009E60&label=personal%20dumps&labelColor=black
 [pd-url]: https://github.com/tensorush?tab=repositories&q=personal-dump&type=&language=&sort=
-[cc-shield]: https://img.shields.io/badge/click-4574E0?style=for-the-badge&logo=codio&logoColor=4574E0&label=code%20challenges&labelColor=black
+[al-shield]: https://img.shields.io/badge/woof-FC60A8?style=for-the-badge&logo=awesome-lists&logoColor=FC60A8&label=awesome%20lists&labelColor=black
+[al-url]: https://github.com/tensorush?tab=repositories&q=awesome-list&type=&language=&sort=
+[cc-shield]: https://img.shields.io/badge/oof-4574E0?style=for-the-badge&logo=codio&logoColor=4574E0&label=code%20challenges&labelColor=black
 [cc-url]: https://github.com/tensorush?tab=repositories&q=code-challenge&type=&language=&sort=
+
+[kf-shield]: https://img.shields.io/badge/plink-FF5E5B?style=for-the-badge&logo=ko-fi&label=ko-fi&labelColor=black
+[kf-url]: https://ko-fi.com/tensorush
+[bc-shield]: https://img.shields.io/badge/clink-F7931A?style=for-the-badge&logo=bitcoin&label=bitcoin&labelColor=black
+[bc-url]: bitcoin:bc1qxn94usln7779phhy2dxw66uf37cce75z6kepx3
+[et-shield]: https://img.shields.io/badge/whoosh-CBAEFF?style=for-the-badge&logo=ethereum&label=ethereum&labelColor=black
+[et-url]: ethereum:0x64b9B720FD8dEDEfCa37B89cCF82c132631B93Da
+[lp-shield]: https://img.shields.io/badge/kaching-F6C915?style=for-the-badge&logo=liberapay&label=liberapay&labelColor=black
+[lp-url]: https://liberapay.com/tensorush/
