@@ -1,15 +1,15 @@
-<h2 style="text-align: center;">🤠 Howdy, Git Ranger! 🤠</h2>
+<h2 align="center">🤠 Howdy, Git Ranger! 🤠</h2>
 
-<h3 style="text-align: center;">🌲 Welcome to my humble abode! 🌲</h3>
+<h3 align="center">🌲 Welcome to my humble abode! 🌲</h3>
 
 <div align="center">
 
-|     :star: Core :star:     | :sparkles: Misc :sparkles: | :yellow_heart: Supp :yellow_heart: |
-|:--------------------------:|:--------------------------:|:----------------------------------:|
-| [![GS][gs-shield]][gs-url] | [![FF][ff-shield]][ff-url] |     [![KF][kf-shield]][kf-url]     |
-| [![ZP][zp-shield]][zp-url] | [![PD][pd-shield]][pd-url] |     [![BC][bc-shield]][bc-url]     |
-| [![RC][rc-shield]][rc-url] | [![AL][al-shield]][al-url] |     [![ET][et-shield]][et-url]     |
-| [![WM][wa-shield]][wa-url] | [![CC][cc-shield]][cc-url] |     [![LP][lp-shield]][lp-url]     |
+|     :star: Core :star:     | :sparkles: Misc :sparkles: |     :hugs: Hugs :hugs:     |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| [![GS][gs-shield]][gs-url] | [![FF][ff-shield]][ff-url] | [![KF][kf-shield]][kf-url] |
+| [![ZP][zp-shield]][zp-url] | [![PD][pd-shield]][pd-url] | [![BC][bc-shield]][bc-url] |
+| [![RC][rc-shield]][rc-url] | [![AL][al-shield]][al-url] | [![ET][et-shield]][et-url] |
+| [![WM][wa-shield]][wa-url] | [![CC][cc-shield]][cc-url] | [![LP][lp-shield]][lp-url] |
 
 </div>
 
@@ -36,8 +36,8 @@
 [kf-shield]: https://img.shields.io/badge/plink-FF5E5B?style=for-the-badge&logo=ko-fi&label=ko-fi&labelColor=black
 [kf-url]: https://ko-fi.com/tensorush
 [bc-shield]: https://img.shields.io/badge/clink-F7931A?style=for-the-badge&logo=bitcoin&label=bitcoin&labelColor=black
-[bc-url]: bitcoin:bc1qxn94usln7779phhy2dxw66uf37cce75z6kepx3
+[bc-url]: btc.png
 [et-shield]: https://img.shields.io/badge/whoosh-CBAEFF?style=for-the-badge&logo=ethereum&label=ethereum&labelColor=black
-[et-url]: ethereum:0x64b9B720FD8dEDEfCa37B89cCF82c132631B93Da
+[et-url]: eth.png
 [lp-shield]: https://img.shields.io/badge/kaching-F6C915?style=for-the-badge&logo=liberapay&label=liberapay&labelColor=black
 [lp-url]: https://liberapay.com/tensorush/
