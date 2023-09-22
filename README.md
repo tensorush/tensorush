@@ -1,6 +1,6 @@
-<h2 align="center">🤠 Howdy, Git Ranger! 🤠</h2>
+<h2 align="center"><a href="https://tensorush.github.io/cv/en.pdf">🤠 Howdy, Git Ranger! 🤠</a></h2>
 
-<h3 align="center">🌲 Welcome to my humble abode! 🌲</h3>
+<h3 align="center"><a href="https://tensorush.github.io">🌲 Welcome to my humble abode! 🌲</a></h3>
 
 <div align="center">
 
