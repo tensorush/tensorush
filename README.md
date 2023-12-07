@@ -4,7 +4,7 @@
 
 <h3><a href="https://tensorush.github.io">🌲 Welcome to my humble abode! 🌲</a></h3>
 
-|    :star: Stars :star:     | :sparkles: Sparks :sparkles: |     :hugs: Hugs :hugs:     |
+|         ⭐ Stars ⭐         |         ✨ Sparks ✨         |         🤗 Hugs 🤗          |
 |:--------------------------:|:----------------------------:|:--------------------------:|
 | [![GS][gs-shield]][gs-url] |  [![FF][ff-shield]][ff-url]  | [![KF][kf-shield]][kf-url] |
 | [![ZP][zp-shield]][zp-url] |  [![PD][pd-shield]][pd-url]  | [![BC][bc-shield]][bc-url] |
