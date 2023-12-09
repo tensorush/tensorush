@@ -2,8 +2,6 @@
 
 <h2><a href="https://tensorush.github.io/cv/en.pdf">🤠 Howdy, Git Ranger! 🤠</a></h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vkwyegd6ph6fivmmkyfc3p4pgu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=009e60&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vkwyegd6ph6fivmmkyfc3p4pgu&redirect=true)
-
 <h3><a href="https://tensorush.github.io">🌲 Welcome to my humble abode! 🌲</a></h3>
 
 |         ⭐ Stars ⭐         |         ✨ Sparks ✨         |         🤗 Hugs 🤗          |
